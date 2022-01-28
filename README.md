@@ -1,0 +1,2 @@
+# Fortnite-Driverless-Undetected-Spoofer
+Basicly Guys This Is A 2 Months Old Driverless Fully Undetected Eac And Be Spoofer Source By Hopesar#1338 It Uses Amidewin Etc To Spoof Required Hwids To Get Unbanned From Any EAC And Be Im Posting This Cuz I Saw Retards Like damo#2707 Etc Publishs Pasted 1909 Drivers So Yeah Here Is Source IF U Think The Bytes Used Is Rats U Can Download Files From Orginal Sites This Spoofer Works For All Winvers
