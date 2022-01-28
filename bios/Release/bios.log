@@ -1,0 +1,6 @@
+﻿  bios.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bios.vcxproj -> C:\Users\aydyn\Desktop\bios\Release\bios.exe
